@@ -1,5 +1,7 @@
 # ML‑Avaliacao2 
 
+Link Vídeo Youtube com explicação do que foi feito na avaliação: https://youtu.be/WCd3g_zfQ5U
+
 Repositório da **Segunda Avaliação** da disciplina de **Aprendizado de Máquina**.
 
 ---
