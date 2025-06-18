@@ -1,0 +1,4 @@
+flask
+numpy
+pycaret==2.3.10
+scikit-learn
